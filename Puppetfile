@@ -1,6 +1,6 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'puppetlabs/razor',  :git => 'https://github.com/puppetlabs/puppetlabs-razor.git'
+mod 'puppetlabs/razor',  :git => 'https://github.com/WianVos/puppetlabs-razor.git'
 mod 'puppetlabs/dhcp',   :git => 'https://github.com/puppetlabs/puppetlabs-dhcp.git'
 mod 'saz/sudo',	 	 :git => 'https://github.com/saz/puppet-sudo.git'
 mod 'puppetlabs/mongodb'
